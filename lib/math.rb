@@ -27,4 +27,3 @@ def square_root(num)
   Math.sqrt(num).to_i
 end
 p square_root(81)
-
